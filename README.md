@@ -1,4 +1,4 @@
-# Blue Team & Digital Forensics and Incident Response
+# Blue Team with Digital Forensics & Incident Response
 
 HI ! :)
 
